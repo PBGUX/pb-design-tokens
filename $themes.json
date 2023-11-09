@@ -1,0 +1,41 @@
+[
+  {
+    "id": "84ea5a2f8d2772960b81d6de51c09270dddc75e7",
+    "name": "Classic",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "theme/classic": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "57cfe84447e46f5371c54c95c0662510abb42bb6",
+    "name": "iOS",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "platform/ios": "enabled"
+    },
+    "group": "Platform"
+  },
+  {
+    "id": "3c24732c2335917936ef6b040886fbfdc835795a",
+    "name": "Ocean",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "theme/ocean": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "8bbc7656a2b41087ca6b78d3214592dbccc7d815",
+    "name": "Neutral",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "theme/neutral": "enabled"
+    },
+    "group": "Theme"
+  }
+]

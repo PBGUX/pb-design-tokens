@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "theme/classic",
+    "theme/ocean",
+    "theme/neutral",
+    "platform/ios"
+  ]
+}

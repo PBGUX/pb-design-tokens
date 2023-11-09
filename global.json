@@ -1,0 +1,161 @@
+{
+  "color": {
+    "transparent": {
+      "value": "rgba(255,255,255,0)",
+      "type": "color"
+    },
+    "alert": {
+      "error": {
+        "value": "hsl(0, 89%, 44%)",
+        "type": "color",
+        "description": "error"
+      },
+      "errorBackground": {
+        "value": "#fdf2f2",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#ef8200",
+        "type": "color"
+      },
+      "warningBackground": {
+        "value": "#fcf6f2",
+        "type": "color"
+      },
+      "info": {
+        "value": "#0072b8",
+        "type": "color"
+      },
+      "infoBackground": {
+        "value": "#f4f9fd",
+        "type": "color"
+      },
+      "success": {
+        "value": "#007d00",
+        "type": "color"
+      },
+      "successBackground": {
+        "value": "#f2f9f2",
+        "type": "color"
+      }
+    }
+  },
+  "dimension": {
+    "none": {
+      "value": "0px",
+      "type": "dimension"
+    },
+    "XXS": {
+      "value": "{dimension.M}/8",
+      "type": "dimension"
+    },
+    "XS": {
+      "value": "{dimension.S}/2",
+      "type": "dimension"
+    },
+    "S": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "S-M": {
+      "value": "12px",
+      "type": "dimension"
+    },
+    "M": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "L": {
+      "value": "{dimension.S} * 3",
+      "type": "dimension"
+    },
+    "XL": {
+      "value": "32px",
+      "type": "dimension"
+    },
+    "XXL": {
+      "value": "40px",
+      "type": "dimension"
+    },
+    "XXXL": {
+      "value": "48px",
+      "type": "dimension"
+    },
+    "4XL": {
+      "value": "56px",
+      "type": "dimension"
+    },
+    "5XL": {
+      "value": "64px",
+      "type": "dimension"
+    }
+  },
+  "colorCalc": {
+    "saturation": {
+      "s700": {
+        "value": "15%",
+        "type": "number"
+      },
+      "s600": {
+        "value": "15%",
+        "type": "number"
+      },
+      "s500": {
+        "value": "20%",
+        "type": "number"
+      },
+      "s400": {
+        "value": "11%",
+        "type": "number"
+      },
+      "s300": {
+        "value": "18%",
+        "type": "number"
+      },
+      "s200": {
+        "value": "50%",
+        "type": "number"
+      },
+      "s100": {
+        "value": "35%",
+        "type": "number"
+      }
+    },
+    "lightness": {
+      "L700": {
+        "value": "22%",
+        "type": "number"
+      },
+      "L600": {
+        "value": "30%",
+        "type": "number"
+      },
+      "L500": {
+        "value": "39%",
+        "type": "number"
+      },
+      "L400": {
+        "value": "73%",
+        "type": "number"
+      },
+      "L300": {
+        "value": "87%",
+        "type": "number"
+      },
+      "L200": {
+        "value": "93%",
+        "type": "number"
+      },
+      "L100": {
+        "value": "97%",
+        "type": "number"
+      }
+    }
+  },
+  "font-family": {
+    "brand": {
+      "value": "Precision Sans W",
+      "type": "fontFamilies"
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.primary} {colorCalc.lightness.primary})",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "primary-600": {
+        "value": "{color.brand.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": ".11",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "secondary": {
+        "value": "#0068a8",
+        "type": "color"
+      }
+    },
+    "tint": {
+      "100": {
+        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s100} {colorCalc.lightness.L100})",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "space": "hsl",
+              "value": "0",
+              "type": "lighten"
+            }
+          }
+        }
+      },
+      "200": {
+        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s200} {colorCalc.lightness.L200})",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "space": "hsl",
+              "value": "0",
+              "type": "lighten"
+            }
+          }
+        }
+      },
+      "300": {
+        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s300} {colorCalc.lightness.L300})",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "400": {
+        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s400} {colorCalc.lightness.L400})",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "500": {
+        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s500} {colorCalc.lightness.L500})",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "600": {
+        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s600} {colorCalc.lightness.L600})",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "700": {
+        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s700} {colorCalc.lightness.L700})",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "gradient": {
+      "angled": {
+        "value": "linear-gradient(135deg, {color.gradient.stops.start} 0%, {color.gradient.stops.mid} 50%, {color.gradient.stops.end} 100%)",
+        "type": "color"
+      },
+      "linear": {
+        "value": "linear-gradient(90deg, {color.gradient.stops.start} 0%, {color.gradient.stops.mid} 50%, {color.gradient.stops.end} 100%)",
+        "type": "color"
+      },
+      "stops": {
+        "start": {
+          "value": "#314183",
+          "type": "color"
+        },
+        "mid": {
+          "value": "#1f62ae",
+          "type": "color"
+        },
+        "end": {
+          "value": "#0c884c",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "colorCalc": {
+    "hue": {
+      "primary": {
+        "value": "184",
+        "type": "number"
+      }
+    },
+    "saturation": {
+      "primary": {
+        "value": "72%",
+        "type": "number"
+      }
+    },
+    "lightness": {
+      "primary": {
+        "value": "28%",
+        "type": "number"
+      }
+    }
+  }
+}
