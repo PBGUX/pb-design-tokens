@@ -45,47 +45,47 @@
       "value": "0px",
       "type": "dimension"
     },
-    "XXS": {
-      "value": "{dimension.M}/8",
+    "xxs": {
+      "value": "{dimension.m}/8",
       "type": "dimension"
     },
-    "XS": {
-      "value": "{dimension.S}/2",
+    "xs": {
+      "value": "{dimension.s}/2",
       "type": "dimension"
     },
-    "S": {
+    "s": {
       "value": "8px",
       "type": "dimension"
     },
-    "S-M": {
+    "s-m": {
       "value": "12px",
       "type": "dimension"
     },
-    "M": {
+    "m": {
       "value": "16px",
       "type": "dimension"
     },
-    "L": {
-      "value": "{dimension.S} * 3",
+    "l": {
+      "value": "{dimension.s} * 3",
       "type": "dimension"
     },
-    "XL": {
+    "xl": {
       "value": "32px",
       "type": "dimension"
     },
-    "XXL": {
+    "xxl": {
       "value": "40px",
       "type": "dimension"
     },
-    "XXXL": {
+    "xxxl": {
       "value": "48px",
       "type": "dimension"
     },
-    "4XL": {
+    "4xl": {
       "value": "56px",
       "type": "dimension"
     },
-    "5XL": {
+    "5xl": {
       "value": "64px",
       "type": "dimension"
     }
@@ -122,31 +122,31 @@
       }
     },
     "lightness": {
-      "L700": {
+      "l700": {
         "value": "22%",
         "type": "number"
       },
-      "L600": {
+      "l600": {
         "value": "30%",
         "type": "number"
       },
-      "L500": {
+      "l500": {
         "value": "39%",
         "type": "number"
       },
-      "L400": {
+      "l400": {
         "value": "73%",
         "type": "number"
       },
-      "L300": {
+      "l300": {
         "value": "87%",
         "type": "number"
       },
-      "L200": {
+      "l200": {
         "value": "93%",
         "type": "number"
       },
-      "L100": {
+      "l100": {
         "value": "97%",
         "type": "number"
       }

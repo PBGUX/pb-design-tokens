@@ -2,7 +2,7 @@
   "color": {
     "brand": {
       "primary": {
-        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.primary} {colorCalc.lightness.primary})",
+        "value": "hsl({color-calc.hue.primary} {color-calc.saturation.primary} {color-calc.lightness.primary})",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -34,7 +34,7 @@
     },
     "tint": {
       "100": {
-        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s100} {colorCalc.lightness.L100})",
+        "value": "hsl({color-calc.hue.primary} {colorCalc.saturation.s100} {colorCalc.lightness.l100})",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -47,7 +47,7 @@
         }
       },
       "200": {
-        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s200} {colorCalc.lightness.L200})",
+        "value": "hsl({color-calc.hue.primary} {colorCalc.saturation.s200} {colorCalc.lightness.l200})",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -60,7 +60,7 @@
         }
       },
       "300": {
-        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s300} {colorCalc.lightness.L300})",
+        "value": "hsl({color-calc.hue.primary} {colorCalc.saturation.s300} {colorCalc.lightness.l300})",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -73,7 +73,7 @@
         }
       },
       "400": {
-        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s400} {colorCalc.lightness.L400})",
+        "value": "hsl({color-calc.hue.primary} {colorCalc.saturation.s400} {colorCalc.lightness.l400})",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -86,7 +86,7 @@
         }
       },
       "500": {
-        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s500} {colorCalc.lightness.L500})",
+        "value": "hsl({color-calc.hue.primary} {colorCalc.saturation.s500} {colorCalc.lightness.l500})",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -99,7 +99,7 @@
         }
       },
       "600": {
-        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s600} {colorCalc.lightness.L600})",
+        "value": "hsl({color-calc.hue.primary} {colorCalc.saturation.s600} {colorCalc.lightness.l600})",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -112,7 +112,7 @@
         }
       },
       "700": {
-        "value": "hsl({colorCalc.hue.primary} {colorCalc.saturation.s700} {colorCalc.lightness.L700})",
+        "value": "hsl({color-calc.hue.primary} {colorCalc.saturation.s700} {colorCalc.lightness.l700})",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -154,7 +154,7 @@
       }
     }
   },
-  "colorCalc": {
+  "color-calc": {
     "hue": {
       "primary": {
         "value": "217",
