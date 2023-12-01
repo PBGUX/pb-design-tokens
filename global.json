@@ -10,7 +10,7 @@
         "type": "color",
         "description": "error"
       },
-      "error-background": {
+      "errorBackground": {
         "value": "#fdf2f2",
         "type": "color"
       },
@@ -18,7 +18,7 @@
         "value": "#ef8200",
         "type": "color"
       },
-      "warning-background": {
+      "warningBackground": {
         "value": "#fcf6f2",
         "type": "color"
       },
@@ -26,7 +26,7 @@
         "value": "#0072b8",
         "type": "color"
       },
-      "info-background": {
+      "infoBackground": {
         "value": "#f4f9fd",
         "type": "color"
       },
@@ -34,7 +34,7 @@
         "value": "#007d00",
         "type": "color"
       },
-      "success-background": {
+      "successBackground": {
         "value": "#f2f9f2",
         "type": "color"
       }
@@ -45,52 +45,52 @@
       "value": "0px",
       "type": "dimension"
     },
-    "xxs": {
-      "value": "{dimension.m}/8",
+    "XXS": {
+      "value": "{dimension.M}/8",
       "type": "dimension"
     },
-    "xs": {
-      "value": "{dimension.s}/2",
+    "XS": {
+      "value": "{dimension.S}/2",
       "type": "dimension"
     },
-    "s": {
+    "S": {
       "value": "8px",
       "type": "dimension"
     },
-    "s-m": {
+    "S-M": {
       "value": "12px",
       "type": "dimension"
     },
-    "m": {
+    "M": {
       "value": "16px",
       "type": "dimension"
     },
-    "l": {
-      "value": "{dimension.s} * 3",
+    "L": {
+      "value": "{dimension.S} * 3",
       "type": "dimension"
     },
-    "xl": {
+    "XL": {
       "value": "32px",
       "type": "dimension"
     },
-    "xxl": {
+    "XXL": {
       "value": "40px",
       "type": "dimension"
     },
-    "xxxl": {
+    "XXXL": {
       "value": "48px",
       "type": "dimension"
     },
-    "4xl": {
+    "4XL": {
       "value": "56px",
       "type": "dimension"
     },
-    "5xl": {
+    "5XL": {
       "value": "64px",
       "type": "dimension"
     }
   },
-  "color-calc": {
+  "colorCalc": {
     "saturation": {
       "s700": {
         "value": "15%",
@@ -122,31 +122,31 @@
       }
     },
     "lightness": {
-      "l700": {
+      "L700": {
         "value": "22%",
         "type": "number"
       },
-      "l600": {
+      "L600": {
         "value": "30%",
         "type": "number"
       },
-      "l500": {
+      "L500": {
         "value": "39%",
         "type": "number"
       },
-      "l400": {
+      "L400": {
         "value": "73%",
         "type": "number"
       },
-      "l300": {
+      "L300": {
         "value": "87%",
         "type": "number"
       },
-      "l200": {
+      "L200": {
         "value": "93%",
         "type": "number"
       },
-      "l100": {
+      "L100": {
         "value": "97%",
         "type": "number"
       }
@@ -154,8 +154,8 @@
   },
   "font-family": {
     "brand": {
-      "value": "precision sans w",
-      "type": "font-families"
+      "value": "Precision Sans W",
+      "type": "fontFamilies"
     }
   }
 }
