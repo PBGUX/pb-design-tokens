@@ -3,6 +3,8 @@
     "global",
     "theme/classic",
     "theme/ocean",
+    "theme/sunset",
+    "theme/twilight",
     "theme/neutral",
     "platform/ios"
   ]

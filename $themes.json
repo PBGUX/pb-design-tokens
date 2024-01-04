@@ -10,21 +10,34 @@
     "group": "Theme"
   },
   {
-    "id": "57cfe84447e46f5371c54c95c0662510abb42bb6",
-    "name": "iOS",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "platform/ios": "enabled"
-    },
-    "group": "Platform"
-  },
-  {
     "id": "3c24732c2335917936ef6b040886fbfdc835795a",
     "name": "Ocean",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global": "enabled",
       "theme/ocean": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "29945e5ad8a3e6eb350e157195a425ad13a8bbf3",
+    "name": "sunset",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "theme/sunset": "enabled",
+      "platform/ios": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "13e5ccdff82fae7b332b5fc38b0bd3d2e8025579",
+    "name": "twilight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "theme/twilight": "enabled",
+      "platform/ios": "enabled"
     },
     "group": "Theme"
   },
@@ -37,5 +50,14 @@
       "theme/neutral": "enabled"
     },
     "group": "Theme"
+  },
+  {
+    "id": "57cfe84447e46f5371c54c95c0662510abb42bb6",
+    "name": "iOS",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "platform/ios": "enabled"
+    },
+    "group": "Platform"
   }
 ]

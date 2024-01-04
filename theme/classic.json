@@ -15,17 +15,8 @@
         }
       },
       "primary-600": {
-        "value": "{color.brand.primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": ".11",
-              "space": "hsl"
-            }
-          }
-        }
+        "value": "#314183",
+        "type": "color"
       },
       "secondary": {
         "value": "#b70077",
@@ -52,9 +43,9 @@
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "space": "hsl",
+              "type": "lighten",
               "value": "0",
-              "type": "lighten"
+              "space": "lch"
             }
           }
         }
@@ -67,7 +58,7 @@
             "modify": {
               "type": "lighten",
               "value": "0",
-              "space": "hsl"
+              "space": "lch"
             }
           }
         }

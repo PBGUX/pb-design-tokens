@@ -15,11 +15,11 @@
         }
       },
       "primary-600": {
-        "value": "HSL(183, 67%, 22%)",
+        "value": "HSL(265, 53%, 27%)",
         "type": "color"
       },
       "secondary": {
-        "value": "#0068a8",
+        "value": "#b70077",
         "type": "color"
       }
     },
@@ -131,15 +131,15 @@
       },
       "stops": {
         "start": {
-          "value": "#314183",
+          "value": "#50248f",
           "type": "color"
         },
         "mid": {
-          "value": "#1f62ae",
+          "value": "#b70077",
           "type": "color"
         },
         "end": {
-          "value": "#0c884c",
+          "value": "#ee6700",
           "type": "color"
         }
       }
@@ -148,19 +148,27 @@
   "color-calc": {
     "hue": {
       "primary": {
-        "value": "184",
+        "value": "265",
         "type": "number"
       }
     },
     "saturation": {
       "primary": {
-        "value": "72%",
+        "value": "60%",
         "type": "number"
       }
     },
     "lightness": {
       "primary": {
-        "value": "28%",
+        "value": "35%",
+        "type": "number"
+      }
+    }
+  },
+  "colorCalc": {
+    "saturation": {
+      "s100": {
+        "value": "23%",
         "type": "number"
       }
     }

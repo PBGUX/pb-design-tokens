@@ -2,24 +2,15 @@
   "color": {
     "brand": {
       "primary": {
-        "value": "hsl({color-calc.hue.primary} {color-calc.saturation.primary} {color-calc.lightness.primary})",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        }
+        "value": "#0072b8",
+        "type": "color"
       },
       "primary-600": {
-        "value": "HSL(183, 67%, 22%)",
+        "value": "HSL(203, 72%, 27%)",
         "type": "color"
       },
       "secondary": {
-        "value": "#0068a8",
+        "value": "#a03f9b",
         "type": "color"
       }
     },
@@ -131,15 +122,15 @@
       },
       "stops": {
         "start": {
-          "value": "#314183",
+          "value": "#0072B8",
           "type": "color"
         },
         "mid": {
-          "value": "#1f62ae",
+          "value": "#314183",
           "type": "color"
         },
         "end": {
-          "value": "#0c884c",
+          "value": "#a03f9b",
           "type": "color"
         }
       }
@@ -148,19 +139,19 @@
   "color-calc": {
     "hue": {
       "primary": {
-        "value": "184",
+        "value": "235",
         "type": "number"
       }
     },
     "saturation": {
       "primary": {
-        "value": "72%",
+        "value": "100%",
         "type": "number"
       }
     },
     "lightness": {
       "primary": {
-        "value": "28%",
+        "value": "36%",
         "type": "number"
       }
     }
